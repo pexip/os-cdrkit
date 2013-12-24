@@ -1,11 +1,13 @@
 Source: cdrkit
 Priority: optional
 Section: otherosfs
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 XSBC-Original-Maintainer: Joerg Jaspert <joerg@debian.org>
-Uploaders: Eduard Bloch <blade@debian.org>, Steve McIntyre <93sam@debian.org>
+XSBC-Pexip-Original-Uploaders: Eduard Bloch <blade@debian.org>, Steve McIntyre <93sam@debian.org>
 Build-Depends: debhelper (>=5.0.37.3), libbz2-dev, zlib1g-dev, autotools-dev, cmake (>= 2.4.2), libcap2-dev [linux-any], libcam-dev [kfreebsd-any], libmagic-dev
 Standards-Version: 3.9.2
+XS-Pexip-Upstream: http://archive.ubuntu.com/ubuntu/ precise
 
 Package: wodim
 Architecture: any

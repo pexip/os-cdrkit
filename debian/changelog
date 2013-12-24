@@ -1,3 +1,9 @@
+cdrkit (9:1.1.11-2ubuntu2pexip1) pexip; urgency=low
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Tue, 24 Dec 2013 13:37:51 +0000
+
 cdrkit (9:1.1.11-2ubuntu2) precise; urgency=low
 
   * Update geteltorito to new upstream version. (LP: #530530)
